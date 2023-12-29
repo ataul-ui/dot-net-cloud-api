@@ -1,0 +1,26 @@
+/Users/ataulhaqakbar/Desktop/dotnet api proj/bin/Debug/net8.0/appsettings.Development.json
+/Users/ataulhaqakbar/Desktop/dotnet api proj/bin/Debug/net8.0/appsettings.json
+/Users/ataulhaqakbar/Desktop/dotnet api proj/bin/Debug/net8.0/dotnet api proj
+/Users/ataulhaqakbar/Desktop/dotnet api proj/bin/Debug/net8.0/dotnet api proj.deps.json
+/Users/ataulhaqakbar/Desktop/dotnet api proj/bin/Debug/net8.0/dotnet api proj.runtimeconfig.json
+/Users/ataulhaqakbar/Desktop/dotnet api proj/bin/Debug/net8.0/dotnet api proj.dll
+/Users/ataulhaqakbar/Desktop/dotnet api proj/bin/Debug/net8.0/dotnet api proj.pdb
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/dotnet api proj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/dotnet api proj.AssemblyInfoInputs.cache
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/dotnet api proj.AssemblyInfo.cs
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/dotnet api proj.csproj.CoreCompileInputs.cache
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/dotnet api proj.MvcApplicationPartsAssemblyInfo.cache
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/dotnet api proj.sourcelink.json
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/staticwebassets.build.json
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/staticwebassets.development.json
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/staticwebassets/msbuild.dotnet api proj.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/staticwebassets/msbuild.build.dotnet api proj.props
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.dotnet api proj.props
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.dotnet api proj.props
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/scopedcss/bundle/dotnet api proj.styles.css
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/dotnet api proj.dll
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/refint/dotnet api proj.dll
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/dotnet api proj.pdb
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/dotnet api proj.genruntimeconfig.cache
+/Users/ataulhaqakbar/Desktop/dotnet api proj/obj/Debug/net8.0/ref/dotnet api proj.dll
