@@ -8,5 +8,8 @@ I can create this as a azure function app that gets imported as an api for azure
 
 follow this tutorial: https://learn.microsoft.com/en-us/azure/api-management/import-function-app-as-api
 
+since the code by itself is not going to be that relevant, I can attach a video of me sending a jwt token using postman to the azure function through azure api management
+
+
 
 This is good tutorial: https://www.youtube.com/watch?v=mXXzpGKdAKs
