@@ -8,6 +8,8 @@ I can create this as a azure function app that gets imported as an api for azure
 
 Or maybe I can use postman to do github actions api monitoring and stuff here, instead of in the smart farming project
 
+I think I'll rename this project as "Cloud-native CRUD API"
+
 follow this tutorial: https://learn.microsoft.com/en-us/azure/api-management/import-function-app-as-api
 
 since the code by itself is not going to be that relevant, I can attach a video of me sending a jwt token using postman to the azure function through azure api management
