@@ -10,7 +10,9 @@ Or maybe I can use postman to do github actions api monitoring and stuff here, i
 
 I think I'll rename this project as "Cloud-native CRUD API"
 
-I'll connect the .net api web app to perform crud operation to github actions on postman, then I'll deploy it to azure webapp which will authenticate requests through azure api management.
+I can create a CI/CD testing pipeline using postman CLI and stuff for automated CRUD api testing
+
+Then I'll deploy it to azure webapp which will authenticate requests through azure api management.
 
 follow this tutorial: https://learn.microsoft.com/en-us/azure/api-management/import-function-app-as-api
 
