@@ -23,6 +23,8 @@ follow this tutorial: https://learn.microsoft.com/en-us/azure/api-management/imp
 
 since the code by itself is not going to be that relevant, I can attach a video of me sending a jwt token using postman to the azure function through azure api management
 
+How to build an OpenAPI Specification using YAML: https://www.youtube.com/watch?v=87ZFvJ7_-n0 
+
 
 
 This is good tutorial: https://www.youtube.com/watch?v=mXXzpGKdAKs
