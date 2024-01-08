@@ -14,6 +14,8 @@ I can create a CI/CD testing pipeline using postman CLI and stuff for automated 
 
 Then I'll deploy it to azure webapp which will authenticate requests through azure api management.
 
+Do I even need to create a webapp? I can connect postman with azure api management through github: https://learning.postman.com/docs/designing-and-developing-your-api/deploying-an-api/deploying-an-api-azure/ 
+
 follow this tutorial: https://learn.microsoft.com/en-us/azure/api-management/import-function-app-as-api
 
 since the code by itself is not going to be that relevant, I can attach a video of me sending a jwt token using postman to the azure function through azure api management
